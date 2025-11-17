@@ -8,9 +8,11 @@ A passionate developer from Pakistan, currently pursuing my Master’s in Italy.
 ---
 
 ## 🚀 What I’m Working On
-- Building **advanced GenAI systems** powered by LLaMA, Groq, and OpenAI models  
-- Developing **multi-agent workflows**, automated reasoning pipelines, and LLM tool integrations  
-- Experimenting with **LLM evaluation architectures**, RAG self-correction loops, and niche model fine-tuning  
+
+- Building LLM-powered automation systems including multi-agent workflows, tool-calling agents, evaluator models, and autonomous reasoning pipelines.
+- Developing advanced RAG architectures such as self-correcting retrieval systems, context validation loops, and vector-database–driven knowledge engines.
+- Experimenting with fine-tuning and optimizing open-weight LLMs (Llama, TinyLlama, Mistral) using LoRA, custom datasets, and Groq-accelerated inference.
+- Creating full-stack GenAI applications using FastAPI, Streamlit, LangChain, embeddings, vector DBs, and scalable cloud deployments.  
 
 ---
 
