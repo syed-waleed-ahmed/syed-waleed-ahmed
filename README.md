@@ -17,7 +17,7 @@ A passionate developer from Pakistan, currently pursuing my Master’s in Italy.
 ---
 
 ## 🌱 Currently Learning
-I’m continuously exploring cutting-edge AI technologies, including:
+I’m continuously exploring AI technologies, including:
 - PyTorch & TensorFlow  
 - LangChain, LlamaIndex  
 - FastAPI & Streamlit  
@@ -26,7 +26,7 @@ I’m continuously exploring cutting-edge AI technologies, including:
 - Llama 3, TinyLlama, Mistral models  
 - Vector DBs: **Pinecone, FAISS, Chroma**  
 - Embeddings, RAG architectures, multi-agent systems  
-- Model evaluation frameworks (including *LLM-as-Judge*)  
+- Model evaluation frameworks  
 - End-to-end **GenAI product development**  
 
 ---
