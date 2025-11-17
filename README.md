@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Syed Waleed Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan, currently studying in Italy for my Masters.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-waleed-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syed-waleed-ahmed" /> </p>
-
-# Hi 👋, I'm Syed Waleed Ahmed  
 ### GenAI Engineer • LLM Automation Enthusiast • Full Stack AI Developer  
 
-A passionate developer from Pakistan 🇵🇰, currently pursuing my Master’s in Italy 🇮🇹.  
+A passionate developer from Pakistan, currently pursuing my Master’s in Italy.  
 I specialize in **Generative AI**, **LLM engineering**, and **full-stack AI application development**, with a strong background in frontend engineering.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-waleed-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syed-waleed-ahmed" /> </p>
 
 ---
 
