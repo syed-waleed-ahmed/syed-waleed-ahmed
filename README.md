@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Waleed Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan, currently studying in Italy for my Masters.</h3>
+<h3 align="center">• GenAI Engineer • LLM Automation Enthusiast • Full Stack AI Developer</h3>
 
 ### GenAI Engineer • LLM Automation Enthusiast • Full Stack AI Developer  
 
@@ -42,10 +42,8 @@ I’m continuously exploring cutting-edge AI technologies, including:
 ---
 
 ## 💬 Ask Me About
-AI/ML • LLMs • RAG Systems • LangChain • Vector Databases  
-Prompt Engineering • FastAPI • Streamlit • Python  
-Groq API • OpenAI API • Llama models  
-Multi-Agent Systems • LLM Evaluation • GenAI Tooling  
+• AI/ML • LLMs • RAG Systems • LangChain • Vector Databases • Prompt Engineering • FastAPI • Streamlit • Python  
+• Groq API • OpenAI API • Llama models • Multi-Agent Systems • LLM Evaluation • GenAI Tooling  
 
 ---
 
