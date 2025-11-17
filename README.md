@@ -38,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syed-waleed-ahmed&show_icons=true&locale=en&layout=compact" alt="syed-waleed-ahmed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syed-waleed-ahmed&show_icons=true&locale=en" alt="syed-waleed-ahmed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-waleed-ahmed&" alt="syed-waleed-ahmed" /></p>
