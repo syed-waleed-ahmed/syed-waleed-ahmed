@@ -3,23 +3,67 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-waleed-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syed-waleed-ahmed" /> </p>
 
-- 🔭 I’m currently working on [GenAI and LLM automation projects.](https://github.com/syed-waleed-ahmed/LLM-as-Judge)
+# Hi 👋, I'm Syed Waleed Ahmed  
+### GenAI Engineer • LLM Automation Enthusiast • Full Stack AI Developer  
 
-- 🌱 I’m currently learning **AI/ML frameworks & tools like PyTorch, TensorFlow, LangChain, FastAPI, Streamlit, HuggingFace, Groq API, OpenAI API, Llama models, vector databases (Pinecone, FAISS, Chroma), embeddings, RAG pipelines, model evaluation techniques, and full-stack GenAI development.**
+A passionate developer from Pakistan 🇵🇰, currently pursuing my Master’s in Italy 🇮🇹.  
+I specialize in **Generative AI**, **LLM engineering**, and **full-stack AI application development**, with a strong background in frontend engineering.
 
-- 👯 I’m looking to collaborate on **AI/ML projects, especially anything involving LLMs, RAG systems, LangChain, Vector DBs, or real-world GenAI applications.**
+---
 
-- 🤝 I’m looking for help with **Scaling AI applications, fine-tuning or optimizing LLM pipelines, and integrating multiple AI frameworks in production.**
+## 🚀 What I’m Working On
+- Building **advanced GenAI systems** powered by LLaMA, Groq, and OpenAI models  
+- Developing **multi-agent workflows**, automated reasoning pipelines, and LLM tool integrations  
+- Experimenting with **LLM evaluation architectures**, RAG self-correction loops, and niche model fine-tuning  
 
-- 👨‍💻 All of my projects are available at [https://github.com/syed-waleed-ahmed](https://github.com/syed-waleed-ahmed)
+---
 
-- 💬 Ask me about **AI/ML, LLMs, GenAI applications, prompt engineering, LangChain, RAG systems, model evaluation, Python, Streamlit, FastAPI, vector databases (Pinecone, FAISS), Llama models, OpenAI APIs, Groq API, and building end-to-end AI tools.**
+## 🌱 Currently Learning
+I’m continuously exploring cutting-edge AI technologies, including:
+- PyTorch & TensorFlow  
+- LangChain, LlamaIndex  
+- FastAPI & Streamlit  
+- HuggingFace ecosystem  
+- Groq API, OpenAI API  
+- Llama 3, TinyLlama, Mistral models  
+- Vector DBs: **Pinecone, FAISS, Chroma**  
+- Embeddings, RAG architectures, multi-agent systems  
+- Model evaluation frameworks (including *LLM-as-Judge*)  
+- End-to-end **GenAI product development**  
 
-- 📫 How to reach me **syedwaleedahmed9@gmail.com**
+---
 
-- 📄 Know about my experiences [Resume available on request.](Resume available on request.)
+## 🤝 I’m Looking to Collaborate On
+- LLM automation systems  
+- RAG pipelines & enterprise search tools  
+- Multi-agent frameworks  
+- AI-powered product development  
+- Fine-tuning + optimizing LLMs  
 
-- ⚡ Fun fact **I talk to AI models more than I talk to humans.**
+---
+
+## 💬 Ask Me About
+AI/ML • LLMs • RAG Systems • LangChain • Vector Databases  
+Prompt Engineering • FastAPI • Streamlit • Python  
+Groq API • OpenAI API • Llama models  
+Multi-Agent Systems • LLM Evaluation • GenAI Tooling  
+
+---
+
+## 🌐 My Work  
+🔗 **GitHub:** https://github.com/syed-waleed-ahmed  
+📄 Resume available upon request  
+
+---
+
+## 📫 Contact  
+**Email:** syedwaleedahmed9@gmail.com  
+
+---
+
+## ⚡ Fun Fact  
+I talk to AI models more than I talk to humans 🤖😂  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
