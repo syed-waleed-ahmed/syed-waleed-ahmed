@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Waleed Ahmed</h1>
 <h3 align="center">• GenAI Engineer • LLM Automation Enthusiast • Full Stack AI Developer</h3>
 
-### GenAI Engineer • LLM Automation Enthusiast • Full Stack AI Developer  
-
 A passionate developer from Pakistan, currently pursuing my Master’s in Italy.  
 I specialize in **Generative AI**, **LLM engineering**, and **full-stack AI application development**, with a strong background in frontend engineering.
 
