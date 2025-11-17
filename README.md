@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/syed-waleed-ahmed](https://github.com/syed-waleed-ahmed)
 
-- 📝 I regularly write articles on [Medium (AI, LLMs, and ML engineering topics)](Medium (AI, LLMs, and ML engineering topics))
-
 - 💬 Ask me about **AI/ML, LLMs, GenAI applications, prompt engineering, LangChain, RAG systems, model evaluation, Python, Streamlit, FastAPI, vector databases (Pinecone, FAISS), Llama models, OpenAI APIs, Groq API, and building end-to-end AI tools.**
 
 - 📫 How to reach me **syedwaleedahmed9@gmail.com**
