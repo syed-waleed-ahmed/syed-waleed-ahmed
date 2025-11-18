@@ -69,7 +69,7 @@ I talk to AI models more than I talk to humans 🤖😂
 <a href="https://codesandbox.com/syed-waleed-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="syed-waleed-ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/waleed_dexter_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waleed_dexter_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/syedwaleedahmed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syedwaleedahmed9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/waleed-dexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="waleed-dexter" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/syed-waleed-ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="waleed-dexter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
