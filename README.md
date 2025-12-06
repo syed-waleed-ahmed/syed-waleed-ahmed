@@ -47,9 +47,9 @@ I’m continuously exploring AI technologies, including:
 ---
 
 ## 🌐 My Work  
-🔗 **Website:** https://github.com/syed-waleed-ahmed](https://syedwaleedahmed.netlify.app/
-🔗 **GitHub:** https://github.com/syed-waleed-ahmed  
-📄 Resume available upon request  
+- 🔗 **Website:** https://syedwaleedahmed.netlify.app/
+- 🔗 **GitHub:** https://github.com/syed-waleed-ahmed  
+- 📄 **Resume:** https://drive.google.com/file/d/1mu7FoA-i_b5cDKXavJSD7sa2kCv8GXg2/view?usp=sharing
 
 ---
 
