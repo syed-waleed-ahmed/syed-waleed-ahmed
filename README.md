@@ -48,7 +48,7 @@ I’m continuously exploring AI technologies, including:
 
 ## 🌐 My Work  
 - 🔗 **Website:** https://syedwaleedahmed.me/ 
-- 📄 **Resume:** https://drive.google.com/file/d/1mu7FoA-i_b5cDKXavJSD7sa2kCv8GXg2/view?usp=sharing
+- 📄 **Resume:** https://drive.google.com/file/d/1fCVwwAEqV7cnsuiWeDKHR44B_eP6N4ZX/view?usp=sharing
 
 ---
 
