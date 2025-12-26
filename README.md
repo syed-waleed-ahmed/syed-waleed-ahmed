@@ -23,7 +23,7 @@ Building intelligent AI systems that reason, collaborate, and automate real-worl
 
 I’m a **Master’s student in Automation Engineering** at the **University of Bologna (Italy)** with a strong focus on **Generative AI, LLM engineering, and intelligent automation**.
 
-My work revolves around **designing production-grade AI systems** — from **multi-agent workflows** and **self-correcting RAG pipelines** to **LLM evaluation frameworks** and **full-stack GenAI applications**.
+My work revolves around **designing production-grade AI systems**, from **multi-agent workflows** and **self-correcting RAG pipelines** to **LLM evaluation frameworks** and **full-stack GenAI applications**.
 
 I enjoy bridging **research-grade AI concepts** with **real-world engineering**, building systems that are:
 - Modular
@@ -52,16 +52,14 @@ I enjoy bridging **research-grade AI concepts** with **real-world engineering**,
 
 ---
 
-## 🧪 Featured Work (Live Repos)
+## 🧪 Featured Work
 
-- 🧠 **Multi-Agent Research Team** – Autonomous research, summarization & report generation  
-- ⚖️ **LLM-as-Judge** – LLM-powered evaluation & benchmarking system  
-- 🔄 **Self-Correcting RAG** – Multi-agent RAG with answer validation  
-- 🧩 **AI Workflow Assistant** – CSV-driven reasoning & analytics agent  
-- 🎯 **Multi-Agent Marketing Workflow** – End-to-end campaign generation using Groq LLMs  
-- 🔬 **Adversarial ML Projects** – LunarLander & CelebA adversarial robustness experiments  
-
-_(All built hands-on — not toy demos.)_
+-  **Multi-Agent Research Team** – Autonomous research, summarization & report generation  
+-  **LLM-as-Judge** – LLM-powered evaluation & benchmarking system  
+-  **Self-Correcting RAG** – Multi-agent RAG with answer validation  
+-  **AI Workflow Assistant** – CSV-driven reasoning & analytics agent  
+-  **Multi-Agent Marketing Workflow** – End-to-end campaign generation using Groq LLMs  
+-  **Adversarial ML Projects** – LunarLander & CelebA adversarial robustness experiments
 
 ---
 
@@ -117,8 +115,7 @@ LLM Evaluation • Fine-Tuning • FastAPI • Streamlit • GenAI Architecture*
 
 ## ⚡ Fun Fact
 
-I design systems where **AI agents argue, critique each other, and converge on better answers** —  
-basically turning chaos into intelligence 🤖🔥
+I design systems where **AI agents argue, critique each other, and converge on better answers**, basically turning chaos into intelligence 🤖🔥
 
 ---
 
