@@ -1,64 +1,128 @@
 <h1 align="center">Hi 👋, I'm Syed Waleed Ahmed</h1>
-<h3 align="center">• GenAI Engineer • LLM Automation Enthusiast • Full Stack AI Developer</h3>
+<h3 align="center">
+GenAI Engineer • LLM Automation Architect • Multi-Agent Systems Builder
+</h3>
 
-A passionate developer from Pakistan, currently pursuing my Master’s in Italy. I specialize in **Generative AI**, **LLM engineering**, and **full-stack AI application development**.
+<p align="center">
+Building intelligent AI systems that reason, collaborate, and automate real-world workflows.
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-waleed-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="syed-waleed-ahmed" /> </p>
+<p align="center">
+  <a href="https://syedwaleedahmed.me">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/syed-waleed-ahmed">LinkedIn</a> •
+  <a href="mailto:syedwaleedahmed9@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syed-waleed-ahmed&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 What I’m Working On
+## 🧠 About Me
 
-- Building LLM-powered automation systems including multi-agent workflows, tool-calling agents, evaluator models, and autonomous reasoning pipelines.
-- Developing advanced RAG architectures such as self-correcting retrieval systems, context validation loops, and vector-database–driven knowledge engines.
-- Experimenting with fine-tuning and optimizing open-weight LLMs (Llama, TinyLlama, Mistral) using LoRA, custom datasets, and Groq-accelerated inference.
-- Creating full-stack GenAI applications using FastAPI, Streamlit, LangChain, embeddings, vector DBs, and scalable cloud deployments.  
+I’m a **Master’s student in Automation Engineering** at the **University of Bologna (Italy)** with a strong focus on **Generative AI, LLM engineering, and intelligent automation**.
+
+My work revolves around **designing production-grade AI systems** — from **multi-agent workflows** and **self-correcting RAG pipelines** to **LLM evaluation frameworks** and **full-stack GenAI applications**.
+
+I enjoy bridging **research-grade AI concepts** with **real-world engineering**, building systems that are:
+- Modular
+- Scalable
+- Observable
+- Actually deployable 🚀
+
+:contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🌱 Currently Learning
-I’m continuously exploring AI technologies, including:
-- PyTorch & TensorFlow  
-- LangChain, LlamaIndex  
-- FastAPI & Streamlit  
-- HuggingFace ecosystem  
-- Groq API, OpenAI API  
-- Llama 3, TinyLlama, Mistral models  
-- Vector DBs: **Pinecone, FAISS, Chroma**  
-- Embeddings, RAG architectures, multi-agent systems  
+## 🚀 What I’m Currently Building
+
+- **Multi-Agent AI Systems**  
+  Role-based agents (Researcher, Coder, Manager, Evaluator) collaborating using LangGraph and structured reasoning.
+
+- **LLM-as-Judge & Evaluation Pipelines**  
+  Automated A/B testing, rubric-based scoring, creativity & factuality evaluation of model outputs.
+
+- **Advanced RAG Architectures**  
+  Self-correcting RAG, retrieval validation loops, hybrid embeddings, and vector-DB-driven knowledge engines.
+
+- **LLM Fine-Tuning & Optimization**  
+  LoRA fine-tuning on domain-specific datasets (TinyLlama, Llama, Mistral) with efficient inference pipelines.
+
+- **End-to-End GenAI Products**  
+  Full-stack AI apps using **FastAPI, Streamlit, LangChain, LangGraph, Groq LLMs**, and cloud-ready deployments.
+
+---
+
+## 🧪 Featured Work (Live Repos)
+
+- 🧠 **Multi-Agent Research Team** – Autonomous research, summarization & report generation  
+- ⚖️ **LLM-as-Judge** – LLM-powered evaluation & benchmarking system  
+- 🔄 **Self-Correcting RAG** – Multi-agent RAG with answer validation  
+- 🧩 **AI Workflow Assistant** – CSV-driven reasoning & analytics agent  
+- 🎯 **Multi-Agent Marketing Workflow** – End-to-end campaign generation using Groq LLMs  
+- 🔬 **Adversarial ML Projects** – LunarLander & CelebA adversarial robustness experiments  
+
+_(All built hands-on — not toy demos.)_
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 AI / ML / LLMs
+- PyTorch, TensorFlow, Scikit-Learn  
+- LangChain, LangGraph, HuggingFace  
+- Prompt Engineering, RAG, Multi-Agent Systems  
+- LoRA, Fine-Tuning, Model Evaluation  
+- Groq API, OpenAI-compatible APIs  
+
+### 📊 Data & Analytics
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Statistical Analysis, Time-Series, EDA  
+- Power BI, Predictive Analytics  
+
+### 🌐 Backend & Full Stack
+- FastAPI, REST APIs  
+- React, Streamlit  
+- SQL (Postgres, MySQL), MongoDB  
+- Docker, Git, Linux  
+
+### ☁️ Tooling
+- Jupyter, VS Code  
+- CI/CD basics, modular architectures  
+
+---
+
+## 🤝 Open to Collaborate On
+
+- LLM automation & agentic systems  
+- RAG pipelines & enterprise search  
 - Model evaluation frameworks  
-- End-to-end **GenAI product development**  
-
----
-
-## 🤝 I’m Looking to Collaborate On
-- LLM automation systems  
-- RAG pipelines & enterprise search tools  
-- Multi-agent frameworks  
-- AI-powered product development  
-- Fine-tuning + optimizing LLMs  
+- GenAI product MVPs & prototypes  
+- Research-to-production AI systems  
 
 ---
 
 ## 💬 Ask Me About
-• AI/ML • LLMs • RAG Systems • LangChain • Vector Databases • Prompt Engineering • FastAPI • Streamlit • Python  
-• Groq API • OpenAI API • Llama models • Multi-Agent Systems • LLM Evaluation • GenAI Tooling  
+
+**LLMs • RAG • Multi-Agent Systems • LangChain • LangGraph • Groq • Prompt Engineering •  
+LLM Evaluation • Fine-Tuning • FastAPI • Streamlit • GenAI Architecture**
 
 ---
 
-## 🌐 My Work  
-- 🔗 **Website:** https://syedwaleedahmed.me/ 
-- 📄 **Resume:** https://drive.google.com/file/d/1fCVwwAEqV7cnsuiWeDKHR44B_eP6N4ZX/view?usp=sharing
+## 🌐 Links
+
+- 🌍 **Website:** https://syedwaleedahmed.me  
+- 📄 **Resume:** https://drive.google.com/file/d/1fCVwwAEqV7cnsuiWeDKHR44B_eP6N4ZX/view  
 
 ---
 
-## 📫 Contact  
-**Email:** syedwaleedahmed9@gmail.com  
+## ⚡ Fun Fact
+
+I design systems where **AI agents argue, critique each other, and converge on better answers** —  
+basically turning chaos into intelligence 🤖🔥
 
 ---
-
-## ⚡ Fun Fact  
-I talk to AI models more than I talk to humans 🤖😂  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
