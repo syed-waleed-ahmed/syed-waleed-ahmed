@@ -8,7 +8,7 @@ Building intelligent AI systems that reason, collaborate, and automate real-worl
 </p>
 
 <p align="center">
-  <a href="https://syedwaleedahmed.me">🌐 Portfolio</a> •
+  <a href="https://syedwaleedahmed.me">Portfolio</a> •
   <a href="https://linkedin.com/in/syed-waleed-ahmed">LinkedIn</a> •
   <a href="mailto:syedwaleedahmed9@gmail.com">Email</a>
 </p>
@@ -101,8 +101,7 @@ I enjoy bridging **research-grade AI concepts** with **real-world engineering**,
 
 ## 💬 Ask Me About
 
-**LLMs • RAG • Multi-Agent Systems • LangChain • LangGraph • Groq • Prompt Engineering •  
-LLM Evaluation • Fine-Tuning • FastAPI • Streamlit • GenAI Architecture**
+**LLMs • RAG • Multi-Agent Systems • LangChain • LangGraph • Groq • Prompt Engineering • LLM Evaluation • Fine-Tuning • FastAPI • Streamlit • GenAI Architecture**
 
 ---
 
