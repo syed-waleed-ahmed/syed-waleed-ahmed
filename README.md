@@ -31,8 +31,6 @@ I enjoy bridging **research-grade AI concepts** with **real-world engineering**,
 - Observable
 - Actually deployable 🚀
 
-:contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 🚀 What I’m Currently Building
