@@ -29,7 +29,7 @@ I enjoy bridging **research-grade AI concepts** with **real-world engineering**,
 - Modular
 - Scalable
 - Observable
-- Actually deployable 🚀
+- Actually deployable
 
 ---
 
@@ -114,7 +114,7 @@ I enjoy bridging **research-grade AI concepts** with **real-world engineering**,
 
 ## ⚡ Fun Fact
 
-I design systems where **AI agents argue, critique each other, and converge on better answers**, basically turning chaos into intelligence 🤖🔥
+I design systems where **AI agents argue, critique each other, and converge on better answers**, basically turning chaos into intelligence 🤖
 
 ---
 
