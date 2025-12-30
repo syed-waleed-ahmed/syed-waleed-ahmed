@@ -108,7 +108,7 @@ I enjoy bridging **research-grade AI concepts** with **real-world engineering**,
 ## 🌐 Links
 
 - 🌍 **Website:** https://syedwaleedahmed.me  
-- 📄 **Resume:** https://drive.google.com/file/d/1fCVwwAEqV7cnsuiWeDKHR44B_eP6N4ZX/view  
+- 📄 **Resume:** https://drive.google.com/file/d/1jkVZ_N2QvQBWRvf9vnzDBfgR0_zGfM0p/view?usp=sharing  
 
 ---
 
