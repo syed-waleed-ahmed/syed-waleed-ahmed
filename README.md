@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Waleed Ahmed</h1>
 <h3 align="center">
-GenAI Engineer • LLM Architect • NLP
+Agentic AI Engineer • LLM Architect • NLP
 </h3>
 
 <p align="center">
