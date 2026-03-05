@@ -7,10 +7,10 @@ AI Engineer • Agentic AI Systems • Multimodal RAG • LLM Orchestration
 AI Engineer building production-grade agentic AI systems. Master’s student in Automation Engineering at the University of Bologna, specializing in Multimodal RAG, LLM orchestration, and intelligent automation.
 </p>
 
-<p align="center">
+<p align="center"> •
   <a href="https://syedwaleedahmed.me">Portfolio</a> •
   <a href="https://linkedin.com/in/syed-waleed-ahmed">LinkedIn</a> •
-  <a href="mailto:syedwaleedahmed9@gmail.com">Email</a>
+  <a href="mailto:syedwaleedahmed9@gmail.com">Email</a> •
   <a href="https://drive.google.com/file/d/1jkVZ_N2QvQBWRvf9vnzDBfgR0_zGfM0p/view?usp=sharing">Resume</a>
 </p>
 
