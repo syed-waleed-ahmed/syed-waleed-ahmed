@@ -11,7 +11,7 @@ AI Engineer building production-grade agentic AI systems. Master’s student in 
   <a href="https://syedwaleedahmed.me">Portfolio</a> •
   <a href="https://linkedin.com/in/syed-waleed-ahmed">LinkedIn</a> •
   <a href="mailto:syedwaleedahmed9@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1jkVZ_N2QvQBWRvf9vnzDBfgR0_zGfM0p/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/1k3_vxVbXj6YXEMnFP0CXtgbD6XVtqJHN/view?usp=sharing">Resume</a>
 </p>
 
 <p align="center">
