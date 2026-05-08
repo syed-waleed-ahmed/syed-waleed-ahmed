@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Syed Waleed Ahmed</h1>
-<h3 align="center">
-AI Engineer • Agentic AI Systems • Multimodal RAG • LLM Orchestration
-</h3>
+
+<h3 align="center">AI Engineer · Multi-Agent Systems · RAG · LLM Workflow Automation</h3>
 
 <p align="center">
-AI Engineer building production-grade agentic AI systems. Master’s student in Automation Engineering at the University of Bologna, specializing in Multimodal RAG, LLM orchestration, and intelligent automation.
+  Building the parts most AI demos skip — evaluation, observability, and the engineering
+  between a working prototype and something a real team can use every day.
 </p>
 
-<p align="center"> •
-  <a href="https://syedwaleedahmed.me">Portfolio</a> •
-  <a href="https://linkedin.com/in/syed-waleed-ahmed">LinkedIn</a> •
-  <a href="mailto:syedwaleedahmed9@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1k3_vxVbXj6YXEMnFP0CXtgbD6XVtqJHN/view?usp=sharing">Resume</a>
+<p align="center">
+  <a href="https://syedwaleedahmed.me">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/syed-waleed-ahmed">💼 LinkedIn</a> •
+  <a href="mailto:syedwaleedahmed9@gmail.com">📧 Email</a> •
+  <a href="https://drive.google.com/file/d/1k3_vxVbXj6YXEMnFP0CXtgbD6XVtqJHN/view?usp=sharing">📄 Resume</a>
 </p>
 
 <p align="center">
@@ -20,90 +20,82 @@ AI Engineer building production-grade agentic AI systems. Master’s student in 
 
 ---
 
-## 🧠 About Me
+## 🎯 About
 
-I’m a **Master’s student in Automation Engineering** at the **University of Bologna (Italy)** specializing in **Multimodal RAG, LLM orchestration, and intelligent automation**.
+Master's student in **Automation Engineering** at the **University of Bologna**, with an
+Erasmus semester at the **University of Twente**. Half full-stack engineer, half AI/ML —
+most interested in the layer between a working model and a deployed product.
 
-I treat AI models the same way I treat any other software component — they need **clean interfaces, proper error handling, and a deployment story**. My work focuses on turning **messy data + complex workflows** into **reliable, observable, deployable systems**.
+A few measurable wins so far:
 
-I enjoy bridging **research-grade AI concepts** with **real-world engineering**, building systems that are:
-- Modular
-- Scalable
-- Observable
-- Actually deployable
-
----
-
-## 🚀 What I’m Currently Building
-
-- **Multi-Agent Orchestration & Tool-Use Patterns**  
-  Orchestrating multi-step agent ↔ tool ↔ UI flows with routing, retries/fallbacks, and observability hooks (traces, latency, failure tracking).
-
-- **Multimodal RAG & Retrieval Pipelines**  
-  Retrieval pipelines across text/image/numeric signals with hybrid search + validation loops for real-world assistant use-cases.
-
-- **Large-Scale Data Clustering & ETL**  
-  Clustering and grouping pipelines (K-means, DBSCAN, hierarchical) + preprocessing for product similarity, segmentation, and analytics.
-
-- **LLM Evaluation, Guardrails & Observability**  
-  Practical eval and monitoring patterns for production assistants: rubric scoring, failure analysis, and system-level reliability.
-
-- **End-to-End ML Deployment on Cloud**  
-  Shipping full-stack AI experiences from notebook to user, with reproducible workflows and deployable services.
+- **90%** manual-effort reduction via role-based multi-agent orchestration (campaign generation)
+- **1M+** retail records clustered (K-Means · DBSCAN · hierarchical) for a multimodal price-comparison assistant
+- **95%+** classification accuracy on industrial CV inspection — ~80% time saved over manual QA
+- **40%** query/DB performance gain on 100K+-record ETL pipelines
+- **60%** reduction in manual processes via SharePoint + .NET + Power BI workflow automation
 
 ---
 
-## 🧪 Featured Work
+## 🔭 Currently
 
--  **MemorAIz Onboarding Assistant** – Split-screen conversational UI that auto-fills profiles using parallel LLM racing, hybrid caching, and streaming  
--  **Fruugle Data Clustering** – 1M+ product/pricing records preprocessing + clustering (K-means/DBSCAN/hierarchical) for comparable product segments
--  **Adversarial Training vs Domain Randomization** – RL robustness in a modified LunarLander environment with adversarial self-play + domain randomization  
--  **Adversarial Attacks & Defenses on CelebA** – FGSM/PGD attacks on ResNet-18 with adversarial training and robustness analysis
--  **Multi-Agent Research Team** – Autonomous research, summarization & report generation  
--  **LLM-as-Judge** – LLM-powered evaluation & benchmarking system  
-
----
-
-## 🛠️ Tech Stack
-
-### 🧠 AI / ML / LLMs
-- Python, PyTorch, Scikit-learn  
-- Multimodal RAG, Retrieval Pipelines, Vector Search  
-- LLM Orchestration, Tool-Use, Multi-Agent Systems  
-- LLM Evaluation, Guardrails, Observability  
-
-### 📊 Data & Analytics
-- Data Preprocessing, ETL, Clustering  
-- PostgreSQL, MySQL, pgvector  
-- Power BI, Reporting & Dashboards  
-
-### 🌐 Backend & Full Stack
-- Node.js, Express, REST APIs  
-- React, Next.js, JavaScript  
-- Streaming UIs, Production integrations  
-
-### ☁️ Tooling
-- Git, CI/CD, Vercel  
-- Modular architectures, deployment-first engineering  
+- **Thesis · MemorAIz (Bologna)** — productizing a modular AI assistant platform with
+  configurable agents, MCP servers, and observability built in. Capability velocity
+  framework cut new-feature integration from **weeks to days**.
+- **Data & AI Intern · Fruugle SIA (remote)** — clustering and normalizing 1M+
+  supermarket records to power a multimodal price-comparison assistant.
 
 ---
 
-## 🤝 Open to Collaborate On
+## 🧪 Featured Projects
 
-- Agentic architectures & tool-use patterns  
-- Multimodal RAG & retrieval pipelines  
-- Large-scale data clustering & ETL  
-- LLM evaluation, guardrails & observability  
-- End-to-end ML deployment on the cloud  
+| Project | Highlight | Stack |
+|---|---|---|
+| **Multi-Agent AI Workflow System** | Production-ready campaign generator; 90% effort reduction via structured agent handoffs | Python · LangGraph · Groq · OpenAI |
+| **Self-Correcting RAG Pipeline** | Retrieve → evaluate → correct loops; re-retrieves on low-confidence answers | LangChain · Vector Search · OpenAI |
+| **LLM-as-Judge** | Custom-rubric eval framework benchmarking LLM outputs (quality, relevance, creativity) | LangChain · OpenAI |
+| **Visual Inspection of Connecting Rods** | Industrial CV classifier; **95%+** accuracy, ~**80%** time reduction | Python · OpenCV |
+| **Tele-Robotic Delay Classification** | Time-series ML for LAN/WAN/4G network delays; **25%** stability improvement | Python · Time-Series · ML |
 
----
-
-## 💬 Ask Me About
-
-**Agentic AI • Multi-Agent Orchestration • Multimodal RAG • Retrieval Pipelines • LLM Evaluation • Guardrails • Observability • Clustering • ETL • Next.js • Node.js • pgvector • Vercel**
+→ Full case studies on the [portfolio](https://syedwaleedahmed.me)
 
 ---
 
-## ⚡ Fun Fact
+## 🧰 Tech Stack
 
-I design systems where **agents route, retry, and self-correct** with observability baked in — turning messy workflows into production-grade automation 🤖
+**AI / LLM Engineering**
+Multi-Agent Systems · RAG · Prompt Engineering · Fine-tuning · LangChain · LangGraph · Hugging Face · OpenAI · Groq
+
+**ML & Data Science**
+PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Statistical Analysis
+
+**Languages**
+Python · SQL · JavaScript · TypeScript · C++
+
+**Web & Backend**
+React · Node.js · .NET ASP Core · REST APIs · HTML/CSS
+
+**Databases**
+PostgreSQL · MySQL · SQL Server · MongoDB
+
+**Tools & Platforms**
+Docker · Git · Linux · Jupyter · Power BI · Azure · Vercel
+
+---
+
+## 🎓 Education
+
+- **MSc, Automation Engineering** — Università di Bologna · *Sep 2024 – Present*
+- **Erasmus+ Mobility** — University of Twente, Netherlands · *Sep 2025 – Jan 2026*
+- **BSc, Electrical Engineering** — NED University · CGPA **3.46** · *Oct 2019 – Aug 2023*
+
+---
+
+## 💬 Get in touch
+
+Open to **AI engineer**, **ML engineer**, and **full-stack AI** roles where I can own a
+system end-to-end — from the model up through the API and the interface someone
+actually clicks on.
+
+📫 [syedwaleedahmed9@gmail.com](mailto:syedwaleedahmed9@gmail.com) · 🌐 [syedwaleedahmed.me](https://syedwaleedahmed.me)
+
+<sub>English · Italian . Currently in Bologna, Italy.</sub>
