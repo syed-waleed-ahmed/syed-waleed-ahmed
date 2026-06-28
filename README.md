@@ -3,8 +3,9 @@
 <h3 align="center">AI Engineer · Multi-Agent Systems · RAG · LLM Workflow Automation</h3>
 
 <p align="center">
-  Building the parts most AI demos skip — evaluation, observability, and the engineering
-  between a working prototype and something a real team can use every day.
+  AI Engineer working on <strong>multi-agent systems</strong>, <strong>RAG pipelines</strong>, and <strong>LLM workflow automation</strong>.
+  I care about the parts most demos skip: evaluation, observability, and the engineering between
+  a working prototype and something a real team can use every day.
 </p>
 
 <p align="center">
@@ -22,9 +23,7 @@
 
 ## 🎯 About
 
-Master's student in **Automation Engineering** at the **University of Bologna**, with an
-Erasmus semester at the **University of Twente**. Half full-stack engineer, half AI/ML —
-most interested in the layer between a working model and a deployed product.
+Master's student in **Automation Engineering** at the **University of Bologna**, with an Erasmus+ semester at the **University of Twente** (Netherlands). Half full-stack engineer, half AI/ML — I build models the way I'd build any other service: with proper APIs, error handling, and observability, not just notebooks that happen to run.
 
 A few measurable wins so far:
 
@@ -33,16 +32,24 @@ A few measurable wins so far:
 - **95%+** classification accuracy on industrial CV inspection — ~80% time saved over manual QA
 - **40%** query/DB performance gain on 100K+-record ETL pipelines
 - **60%** reduction in manual processes via SharePoint + .NET + Power BI workflow automation
+- **45%** increase in community engagement leading a 130+ member IEEE PES team
 
 ---
 
 ## 🔭 Currently
 
-- **Thesis · MemorAIz (Bologna)** — productizing a modular AI assistant platform with
-  configurable agents, MCP servers, and observability built in. Capability velocity
-  framework cut new-feature integration from **weeks to days**.
-- **Data & AI Intern · Fruugle SIA (remote)** — clustering and normalizing 1M+
-  supermarket records to power a multimodal price-comparison assistant.
+- **Thesis · MemorAIz (Bologna)** — built **RemindrAI**, a serverless AI backend that schedules reminders and chats with users across Email, WhatsApp, Telegram, and Discord. An AI agent on the Vercel AI SDK creates, reschedules, and cancels reminders from plain conversation. Packaged as a reusable Mastra tool other apps can plug into.
+- **Currently exploring:** Agentic Backends
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| AI Systems Thesis Student | MemorAIz · Bologna, Italy | Feb 2026 – Present |
+| Data Analytics & AI Intern | Fruugle SIA · Riga, Latvia (Remote) | Jan 2026 – Apr 2026 |
+| Tech Trainee | Jubilee Life Insurance Co. Ltd. · Karachi, Pakistan | Jan 2024 – Oct 2024 |
 
 ---
 
@@ -50,11 +57,12 @@ A few measurable wins so far:
 
 | Project | Highlight | Stack |
 |---|---|---|
-| **Multi-Agent AI Workflow System** | Production-ready campaign generator; 90% effort reduction via structured agent handoffs | Python · LangGraph · Groq · OpenAI |
-| **Self-Correcting RAG Pipeline** | Retrieve → evaluate → correct loops; re-retrieves on low-confidence answers | LangChain · Vector Search · OpenAI |
-| **LLM-as-Judge** | Custom-rubric eval framework benchmarking LLM outputs (quality, relevance, creativity) | LangChain · OpenAI |
-| **Visual Inspection of Connecting Rods** | Industrial CV classifier; **95%+** accuracy, ~**80%** time reduction | Python · OpenCV |
-| **Tele-Robotic Delay Classification** | Time-series ML for LAN/WAN/4G network delays; **25%** stability improvement | Python · Time-Series · ML |
+| **Multi-Channel AI Reminder Platform** | Serverless AI backend that chats with users across Email, WhatsApp, Telegram & Discord — reliable delivery with retries, no duplicate sends, reusable via a single Mastra tool | Next.js 15 · TypeScript · Mastra · Vercel AI SDK · Turso · QStash |
+| **Multi-Agent AI Workflow System** | Production-ready campaign generator; 90% effort reduction through role-based agent orchestration with structured handoffs | Python · LangGraph · Groq · OpenAI |
+| **Self-Correcting RAG Pipeline** | Retrieve → evaluate → correct loops; grades its own answers and re-retrieves on low confidence instead of hallucinating | LangChain · Vector Search · OpenAI · Python |
+| **LLM-as-Judge Evaluation Framework** | Custom-rubric benchmarking of LLM outputs for quality, relevance, and creativity; lets teams ship LLM features without flying blind | LangChain · OpenAI · Python · Eval |
+| **Visual Inspection of Connecting Rods** | CV-based industrial classifier; 95%+ accuracy, ~80% reduction in manual inspection time | Computer Vision · OpenCV · Python |
+| **Delay Classification for Tele-Robotic Systems** | Time-series ML pipeline classifying LAN/WAN/4G network delays; ~25% improvement in system stability | Time-Series · ML · Python |
 
 → Full case studies on the [portfolio](https://syedwaleedahmed.me)
 
@@ -63,7 +71,7 @@ A few measurable wins so far:
 ## 🧰 Tech Stack
 
 **AI / LLM Engineering**
-Multi-Agent Systems · RAG · Prompt Engineering · Fine-tuning · LangChain · LangGraph · Hugging Face · OpenAI · Groq
+Multi-Agent Systems · RAG · Prompt Engineering · Fine-tuning · LangChain · LangGraph · Hugging Face · OpenAI · Groq · Vercel AI SDK · Mastra
 
 **ML & Data Science**
 PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Statistical Analysis
@@ -72,30 +80,55 @@ PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib · Seabor
 Python · SQL · JavaScript · TypeScript · C++
 
 **Web & Backend**
-React · Node.js · .NET ASP Core · REST APIs · HTML/CSS
+React · Next.js · Node.js · .NET ASP Core · REST APIs · Serverless · Webhooks · HTML/CSS
 
 **Databases**
-PostgreSQL · MySQL · SQL Server · MongoDB
+PostgreSQL · MySQL · SQL Server · MongoDB · Turso / libSQL
 
 **Tools & Platforms**
-Docker · Git · Linux · Jupyter · Power BI · Azure · Vercel
+Docker · Git · Linux · Vercel · Upstash QStash · Twilio · Jupyter · Power BI · Azure
 
 ---
 
 ## 🎓 Education
 
 - **MSc, Automation Engineering** — Università di Bologna · *Sep 2024 – Present*
-- **Erasmus+ Mobility** — University of Twente, Netherlands · *Sep 2025 – Jan 2026*
-- **BSc, Electrical Engineering** — NED University · CGPA **3.46** · *Oct 2019 – Aug 2023*
+- **Erasmus+ Mobility** — University of Twente, Enschede, Netherlands · *Sep 2025 – Jan 2026*
+- **BSc, Electrical Engineering** — NED University of Engineering and Technology · CGPA **3.46** · *Oct 2019 – Aug 2023*
+
+---
+
+## 🏆 Certifications
+
+- Machine Learning Specialization
+- Deep Learning Specialization
+- HackerRank Software Engineer
+
+---
+
+## 🤝 Leadership
+
+**IEEE PES NEDUET Society — Managing Director** *(Oct 2022 – Sep 2023)*
+Led a cross-functional team of 130+ members; organized seminars, workshops, and technical events on emerging technologies. Implemented KPI-based performance tracking — increasing engagement by **45%**.
+
+---
+
+## 🔍 Interests & What I'm Exploring
+
+- Multi-agent systems & tool use
+- RAG pipelines & retrieval quality
+- LLM evaluation & observability
+- Computer vision & multimodal models
+- MLOps & cloud deployment
 
 ---
 
 ## 💬 Get in touch
 
-Open to **AI engineer**, **ML engineer**, and **full-stack AI** roles where I can own a
-system end-to-end — from the model up through the API and the interface someone
-actually clicks on.
+Looking for **AI engineer**, **ML engineer**, or **full-stack AI** roles where I can own a system end-to-end — from the model up through the API and the interface someone actually clicks on. I care about clean architecture, reproducible workflows, and the engineering between "this notebook works" and "real users use this every day."
 
 📫 [syedwaleedahmed9@gmail.com](mailto:syedwaleedahmed9@gmail.com) · 🌐 [syedwaleedahmed.me](https://syedwaleedahmed.me)
 
-<sub>English · Italian . Currently in Bologna, Italy.</sub>
+**Languages:** English (Fluent) · Italian (Conversational) · Urdu (Native)
+
+<sub>Currently in Bologna, Italy.</sub>
