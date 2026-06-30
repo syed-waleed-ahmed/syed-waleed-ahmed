@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Waleed Ahmed</h1>
 
-<h3 align="center">AI Engineer · Multi-Agent Systems · RAG · LLM Workflow Automation</h3>
+<h3 align="center">AI Engineer · Agentic Systems & LLM Pipelines · Multi-Agent Systems · RAG</h3>
 
 <p align="center">
   AI Engineer working on <strong>multi-agent systems</strong>, <strong>RAG pipelines</strong>, and <strong>LLM workflow automation</strong>.
