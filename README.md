@@ -11,7 +11,7 @@
   <a href="https://syedwaleedahmed.me"><strong>Portfolio</strong></a> ·
   <a href="https://linkedin.com/in/syed-waleed-ahmed"><strong>LinkedIn</strong></a> ·
   <a href="mailto:syedwaleedahmed9@gmail.com"><strong>Email</strong></a> ·
-  <a href="https://syedwaleedahmed.me/resume.pdf"><strong>Resume</strong></a>
+  <a href="https://drive.google.com/file/d/1aAgugSve_VTAkvC_Vaj0QDZMONPELuU3/view?usp=sharing"><strong>Resume</strong></a>
 </p>
 
 ---
@@ -84,7 +84,5 @@ Full case studies on the [portfolio](https://syedwaleedahmed.me).
 ## What I'm Looking For
 
 **AI Engineer, ML Engineer, or Full-Stack AI** roles where I own a system end to end, from the model up through the API and the interface someone actually clicks on. Based in **Bologna, Italy**, open to roles across Europe.
-
-📫 [syedwaleedahmed9@gmail.com](mailto:syedwaleedahmed9@gmail.com) · 🌐 [syedwaleedahmed.me](https://syedwaleedahmed.me)
 
 **Languages:** English (Fluent) · Italian (Conversational) · Urdu (Native)
