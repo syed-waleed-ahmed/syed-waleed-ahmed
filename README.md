@@ -50,7 +50,7 @@ MSc student in **Automation Engineering** at the **University of Bologna** (Eras
 | **Multi-Agent AI Workflow System** | Specialized research, copy, brief, and QA agents coordinate through structured handoffs to automate campaign generation, cutting manual effort by 90% | Python · LangGraph · Groq · OpenAI | [Repo](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) |
 | **Self-Correcting RAG Pipeline** | Retrieve, evaluate, correct loops. Grades its own answers and re-retrieves on low confidence instead of hallucinating | LangChain · Vector Search · OpenAI · Python | [Repo](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG) |
 | **LLM-as-Judge Evaluation Framework** | Custom-rubric benchmarking of LLM outputs for quality, relevance, and creativity, so teams can ship LLM features without flying blind | LangChain · OpenAI · Python | [Repo](https://github.com/syed-waleed-ahmed/LLM-as-Judge) |
-| **Delay Classification for Tele-Robotic Systems** | Time-series ML pipeline that classifies LAN, WAN, and 4G network delays before they destabilize remote control loops, improving stability by around 25% | Time-Series · ML · Python | Bachelor's thesis |
+| **Delay Classification for Tele-Robotic Systems** | Time-series ML pipeline that classifies LAN, WAN, and 4G network delays before they destabilize remote control loops, improving stability by around 25% | Signal Processing · TCP/IP · UDP · C++ · Networking | Bachelor's thesis |
 
 Full case studies on the [portfolio](https://syedwaleedahmed.me).
 
