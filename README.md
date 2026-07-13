@@ -11,7 +11,7 @@
   <a href="https://syedwaleedahmed.me"><strong>Portfolio</strong></a> ·
   <a href="https://linkedin.com/in/syed-waleed-ahmed"><strong>LinkedIn</strong></a> ·
   <a href="mailto:syedwaleedahmed9@gmail.com"><strong>Email</strong></a> ·
-  <a href="https://drive.google.com/file/d/1aAgugSve_VTAkvC_Vaj0QDZMONPELuU3/view?usp=sharing"><strong>Resume</strong></a>
+  <a href="https://drive.google.com/file/d/1QqL7iZJXs5sQfQz2Ehmwqm2Ze5OHSW-U/view?usp=sharing"><strong>Resume</strong></a>
 </p>
 
 ---
