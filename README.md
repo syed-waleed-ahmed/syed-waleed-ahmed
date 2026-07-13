@@ -65,7 +65,7 @@ Full case studies on the [portfolio](https://syedwaleedahmed.me).
 | **Web & Backend** | React · Next.js · Node.js · .NET ASP Core · REST APIs |
 | **Data & ML Libraries** | Scikit-learn · Pandas · NumPy · OpenCV |
 | **Databases & Messaging** | PostgreSQL · MySQL · MongoDB · Redis · Kafka |
-| **Cloud & DevOps** | AWS · Azure · Kubernetes · Docker · Terraform · CI/CD · Git |
+| **Cloud & DevOps** | AWS · Kubernetes · Docker · Terraform · CI/CD · Git |
 
 ---
 
