@@ -60,12 +60,12 @@ Full case studies on the [portfolio](https://syedwaleedahmed.me).
 
 | Area | Tools |
 |---|---|
-| **AI / LLM Engineering** | Multi-Agent Systems · RAG · Prompt Engineering · Fine-tuning · LangChain · LangGraph · Vercel AI SDK · Mastra · Hugging Face · OpenAI · Groq |
-| **ML & Data Science** | PyTorch · TensorFlow · scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Statistical Analysis |
-| **Languages** | Python · SQL · TypeScript · JavaScript · C++ |
-| **Web & Backend** | React · Next.js · Node.js · .NET ASP Core · REST APIs · Serverless · Webhooks |
-| **Databases** | PostgreSQL · MySQL · SQL Server · MongoDB · Turso / libSQL |
-| **Tools & Platforms** | Docker · Git · Linux · Vercel · Upstash QStash · Twilio · Power BI · AWS |
+| **AI / LLM Engineering** | Multi-Agent Systems · RAG · LangChain · LangGraph · PyTorch · TensorFlow |
+| **Languages** | Python · SQL · JavaScript · TypeScript |
+| **Web & Backend** | React · Next.js · Node.js · .NET ASP Core · REST APIs |
+| **Data & ML Libraries** | Scikit-learn · Pandas · NumPy · OpenCV |
+| **Databases & Messaging** | PostgreSQL · MySQL · MongoDB · Redis · Kafka |
+| **Cloud & DevOps** | AWS · Azure · Kubernetes · Docker · Terraform · CI/CD · Git |
 
 ---
 
