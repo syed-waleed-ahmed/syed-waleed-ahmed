@@ -65,7 +65,7 @@ Full case studies on the [portfolio](https://syedwaleedahmed.me).
 | **Languages** | Python · SQL · TypeScript · JavaScript · C++ |
 | **Web & Backend** | React · Next.js · Node.js · .NET ASP Core · REST APIs · Serverless · Webhooks |
 | **Databases** | PostgreSQL · MySQL · SQL Server · MongoDB · Turso / libSQL |
-| **Tools & Platforms** | Docker · Git · Linux · Vercel · Upstash QStash · Twilio · Power BI · Azure |
+| **Tools & Platforms** | Docker · Git · Linux · Vercel · Upstash QStash · Twilio · Power BI · AWS |
 
 ---
 
