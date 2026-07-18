@@ -1,6 +1,6 @@
 <h1 align="center">Syed Waleed Ahmed</h1>
 
-<h3 align="center">AI Engineer · Agentic Systems · Multi-Agent Orchestration · RAG · LLM Pipelines</h3>
+<h3 align="center">AI Engineer | Agentic Systems, RAG & LLM Pipelines | Python · LangGraph · TypeScript</h3>
 
 <p align="center">
   I build AI systems the way I'd build any other production service: with proper APIs,
