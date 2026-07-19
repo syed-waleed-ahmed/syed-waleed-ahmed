@@ -51,11 +51,5 @@ More on the [portfolio](https://syedwaleedahmed.me).
 
 ## Education
 
-MSc Automation Engineering, Bologna · BSc Electrical Engineering, NED
-
----
-
-## Looking For
-
-**AI Engineer** roles across Europe · Based in Bologna, Italy
-**Languages:** English (Fluent) · Italian (Conversational) · Urdu (Native)
+**MS Automation Engineering, University of Bologna, Bologna, Italy** 
+**BE Electrical Engineering, NED UET, Karachi, Pakistan**
