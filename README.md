@@ -16,14 +16,6 @@
 
 ---
 
-## About
-
-MSc, Automation Engineering @ University of Bologna. Currently on thesis at **MemorAIz**, building a serverless multi-channel AI reminder agent. Background spans EE, full-stack, and databases — I own systems end to end.
-
-**Impact:** 90% manual-effort reduction (multi-agent campaign orchestration) · 95%+ accuracy on a CV inspection system · 1M+ records clustered for product comparison
-
----
-
 ## Experience
 
 | Role | Company | Period |
@@ -59,13 +51,11 @@ More on the [portfolio](https://syedwaleedahmed.me).
 
 ## Education
 
-MSc Automation Engineering, Bologna · Erasmus+, Twente · BSc Electrical Engineering, NED
-
-**Certs:** AWS SAA *(in progress)* · ML Specialization · Deep Learning Specialization
+MSc Automation Engineering, Bologna · BSc Electrical Engineering, NED
 
 ---
 
 ## Looking For
 
-**AI / ML Engineer** roles across Europe · Based in Bologna, Italy
+**AI Engineer** roles across Europe · Based in Bologna, Italy
 **Languages:** English (Fluent) · Italian (Conversational) · Urdu (Native)
