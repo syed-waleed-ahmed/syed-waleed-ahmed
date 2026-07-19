@@ -18,13 +18,9 @@
 
 ## About
 
-MSc student in **Automation Engineering** at the **University of Bologna** (Erasmus+ at **University of Twente**), currently on thesis at **MemorAIz**, building a serverless multi-channel AI reminder agent. Background in Electrical Engineering plus a year across full-stack, databases, and security — I can own a system end to end, not just the ML layer.
+MSc, Automation Engineering @ University of Bologna. Currently on thesis at **MemorAIz**, building a serverless multi-channel AI reminder agent. Background spans EE, full-stack, and databases — I own systems end to end.
 
-**Impact:**
-- **90%** manual-effort reduction via multi-agent orchestration for campaign generation
-- **95%+** accuracy on an industrial computer-vision inspection system, cutting manual QA time ~80%
-- **1M+** retail records clustered and engineered for multimodal product comparison
-- **40%** query performance gain on ETL pipelines handling 100K+ records
+**Impact:** 90% manual-effort reduction (multi-agent campaign orchestration) · 95%+ accuracy on a CV inspection system · 1M+ records clustered for product comparison
 
 ---
 
@@ -32,22 +28,20 @@ MSc student in **Automation Engineering** at the **University of Bologna** (Eras
 
 | Role | Company | Period |
 |---|---|---|
-| AI Systems Thesis Student | **MemorAIz** · Bologna, Italy | Feb 2026 – Present |
-| Data Analytics & AI Intern | **Fruugle SIA** · Riga, Latvia (Remote) | Jan 2026 – Apr 2026 |
-| Tech Trainee | **Jubilee Life Insurance Co. Ltd.** · Karachi, Pakistan | Jan 2024 – Oct 2024 |
-
-**Currently:** building **RemindrAI** — a serverless agent (Next.js 15, TypeScript, Mastra, Vercel AI SDK) that schedules, reschedules, and cancels reminders from plain conversation across Email, WhatsApp, Telegram, and Discord, packaged as a drop-in tool for other apps.
+| AI Systems Thesis Student | **MemorAIz**, Bologna | Feb 2026 – Present |
+| Data Analytics & AI Intern | **Fruugle SIA**, Riga (Remote) | Jan – Apr 2026 |
+| Tech Trainee | **Jubilee Life Insurance**, Karachi | Jan – Oct 2024 |
 
 ---
 
 ## Featured Projects
 
-| Project | What it does | Stack | Code |
-|---|---|---|---|
-| **RemindrAI** | Multi-channel agentic reminder backend with reliable delivery and no duplicate sends | Next.js · TypeScript · Mastra · Vercel AI SDK | Private (thesis) |
-| **Multi-Agent Workflow System** | Research, copy, brief, and QA agents coordinate via structured handoffs, cutting manual campaign effort 90% | Python · LangGraph | [Repo](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) |
-| **Self-Correcting RAG Pipeline** | Retrieve → evaluate → correct loop that re-retrieves on low confidence instead of hallucinating | LangChain · Vector Search · Python | [Repo](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG) |
-| **LLM-as-Judge Evaluation Framework** | Custom-rubric benchmarking of LLM output quality and relevance | LangChain · Python | [Repo](https://github.com/syed-waleed-ahmed/LLM-as-Judge) |
+| Project | What it does | Code |
+|---|---|---|
+| **RemindrAI** | Multi-channel agentic reminder backend, no duplicate sends | Private (thesis) |
+| **Multi-Agent Workflow** | Agents coordinate to automate campaign generation, 90% less manual effort | [Repo](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) |
+| **Self-Correcting RAG** | Retrieve → evaluate → correct loop, no hallucinated fallback | [Repo](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG) |
+| **LLM-as-Judge** | Custom-rubric benchmarking for LLM output quality | [Repo](https://github.com/syed-waleed-ahmed/LLM-as-Judge) |
 
 More on the [portfolio](https://syedwaleedahmed.me).
 
@@ -65,16 +59,13 @@ More on the [portfolio](https://syedwaleedahmed.me).
 
 ## Education
 
-- **MSc, Automation Engineering** — Università di Bologna, *2024 – Present*
-- **Erasmus+**, University of Twente, Netherlands, *2025 – 2026*
-- **BSc, Electrical Engineering** — NED University, *2019 – 2023*
+MSc Automation Engineering, Bologna · Erasmus+, Twente · BSc Electrical Engineering, NED
 
-**Certifications:** AWS Certified Solutions Architect – Associate *(in progress)* · Machine Learning Specialization · Deep Learning Specialization
+**Certs:** AWS SAA *(in progress)* · ML Specialization · Deep Learning Specialization
 
 ---
 
 ## Looking For
 
-**AI Engineer / ML Engineer** roles across Europe, owning systems from model to API to interface. Based in **Bologna, Italy**.
-
+**AI / ML Engineer** roles across Europe · Based in Bologna, Italy
 **Languages:** English (Fluent) · Italian (Conversational) · Urdu (Native)
