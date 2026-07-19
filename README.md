@@ -51,5 +51,5 @@ More on the [portfolio](https://syedwaleedahmed.me).
 
 ## Education
 
-**MS Automation Engineering, University of Bologna, Bologna, Italy** 
+**MS Automation Engineering, University of Bologna, Bologna, Italy**
 **BE Electrical Engineering, NED UET, Karachi, Pakistan**
