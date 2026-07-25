@@ -41,10 +41,15 @@ More detail on each project is on the [portfolio](https://syedwaleedahmed.me).
 ## Tech Stack
 
 **Languages:** Python, SQL, JavaScript, TypeScript
+
 **Machine Learning & AI:** RAG, LangChain, LangGraph, PyTorch, TensorFlow
+
 **Backend & Frameworks:** Next.js, Node.js, React, REST APIs
+
 **Data & ML Libraries:** Pandas, NumPy
+
 **Databases & Messaging:** PostgreSQL, MongoDB, Redis, Kafka
+
 **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform
 
 ---
@@ -52,4 +57,5 @@ More detail on each project is on the [portfolio](https://syedwaleedahmed.me).
 ## Education
 
 **MS Automation Engineering**, University of Bologna, Italy
+
 **BE Electrical Engineering**, NED University of Engineering & Technology, Karachi, Pakistan
