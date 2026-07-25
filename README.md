@@ -1,10 +1,9 @@
 <h1 align="center">Syed Waleed Ahmed</h1>
-
-<h3 align="center">AI Engineer | Agentic Systems, RAG & LLM Pipelines | Python · LangGraph · TypeScript</h3>
+<h3 align="center">AI/ML Engineer — Agentic Systems, RAG & LLM Pipelines</h3>
 
 <p align="center">
-  I build AI systems the way I'd build any other production service: proper APIs,
-  error handling, evaluation, and observability — not notebooks that only run on my machine.
+I build AI systems with the same rigor as any production service: typed APIs, error handling,
+evaluation, and observability, not notebooks that only run on my machine.
 </p>
 
 <p align="center">
@@ -30,31 +29,27 @@
 
 | Project | What it does | Code |
 |---|---|---|
-| **RemindrAI** | Multi-channel agentic reminder backend, no duplicate sends | Private (thesis) |
-| **Multi-Agent Workflow** | Agents coordinate to automate campaign generation, 90% less manual effort | [Repo](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) |
-| **Self-Correcting RAG** | Retrieve → evaluate → correct loop, no hallucinated fallback | [Repo](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG) |
-| **LLM-as-Judge** | Custom-rubric benchmarking for LLM output quality | [Repo](https://github.com/syed-waleed-ahmed/LLM-as-Judge) |
+| **RemindrAI** | Domain-agnostic, multi-channel messaging backend built as a Mastra capability, with RAG-grounded delivery and deduplication logic | Private (thesis) |
+| **Self-Correcting RAG** | Retrieval pipeline with a retrieve → evaluate → correct loop to catch and fix low-confidence answers before they reach the user | [Repo](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG) |
+| **LLM-as-Judge** | Rubric-based evaluation harness for scoring LLM outputs against custom criteria | [Repo](https://github.com/syed-waleed-ahmed/LLM-as-Judge) |
+| **Multi-Agent Workflow** | Coordinated agents for automating campaign generation tasks | [Repo](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) |
 
-More on the [portfolio](https://syedwaleedahmed.me).
+More detail on each project is on the [portfolio](https://syedwaleedahmed.me).
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python · SQL · JavaScript · TypeScript
-
-**AI / ML:** RAG · LangChain · LangGraph · PyTorch · TensorFlow
-
-**Backend & Web:** Next.js · Node.js · React · REST APIs
-
-**Data:** PostgreSQL · MongoDB · Redis · Kafka · Pandas · NumPy
-
-**Cloud & DevOps:** AWS · Docker · Kubernetes · Terraform · CI/CD
+**Languages:** Python, SQL, JavaScript, TypeScript
+**Machine Learning & AI:** RAG, LangChain, LangGraph, PyTorch, TensorFlow
+**Backend & Frameworks:** Next.js, Node.js, React, REST APIs
+**Data & ML Libraries:** Pandas, NumPy
+**Databases & Messaging:** PostgreSQL, MongoDB, Redis, Kafka
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform
 
 ---
 
 ## Education
 
-**MS Automation Engineering, University of Bologna, Bologna, Italy**
-
-**BE Electrical Engineering, NED UET, Karachi, Pakistan**
+**MS Automation Engineering**, University of Bologna, Italy
+**BE Electrical Engineering**, NED University of Engineering & Technology, Karachi, Pakistan
