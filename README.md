@@ -5,7 +5,7 @@
   <a href="https://syedwaleedahmed.me">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/syed-waleed-ahmed/">LinkedIn</a> ·
   <a href="mailto:syedwaleedahmed9@gmail.com">Email</a> ·
-  <a href="https://drive.google.com/file/d/1gPdW6Rf8X2NBD8h9NTKfysr-8Wx_3NoK/view?usp=sharing">Résumé</a>
+  <a href="https://drive.google.com/file/d/1vTuQEyENVeon6ZWjjAvD-Qu3o-KdnlS2/view?usp=sharing">Résumé</a>
 </p>
 
 ---
