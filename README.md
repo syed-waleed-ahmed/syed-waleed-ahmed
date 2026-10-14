@@ -1,95 +1,130 @@
 <h1 align="center">Syed Waleed Ahmed</h1>
-<p align="center">AI Engineer — multi-agent systems, RAG pipelines, and LLM services built to survive production.</p>
+
+<p align="center">
+  <strong>AI Engineer | Agentic Systems, LLM Applications & Applied Machine Learning</strong>
+</p>
 
 <p align="center">
   <a href="https://syedwaleedahmed.me">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/syed-waleed-ahmed/">LinkedIn</a> ·
   <a href="mailto:syedwaleedahmed9@gmail.com">Email</a> ·
-  <a href="https://drive.google.com/file/d/1b-GO0VcfvYKG047ceIhGMfK_YNx6b7Kr/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/1aYYWTcgosEV3QP3r3O2Hlf3WqqRkBe_x/view?usp=sharing">Resume</a>
 </p>
 
 ---
 
-I care about the parts most AI demos skip: evaluation, observability, and the engineering it takes to get from a working prototype to something a real team can rely on. Most of what I build ships with a test suite, typed configuration, and a CI pipeline, because that is the difference between a notebook and a service.
+I build AI applications and software systems around LLMs and machine learning models, with a focus on the engineering that makes them reliable beyond a demo.
 
-|  |  |
+My work spans agentic workflows, retrieval-augmented generation (RAG), model evaluation, backend APIs, data pipelines, and applied machine learning. I care about the less visible parts of engineering too: testing, observability, typed interfaces, failure handling, retries, and reproducible evaluation.
+
+| | |
 | --- | --- |
-| **Now** | AI Engineer (Master's thesis) at **MemorAIz S.r.l.**, Bologna |
-| **Education** | MSc Automation Engineering, University of Bologna — graduating **October 2026** |
-| **Looking for** | AI / ML Engineer roles in Europe, available from **October 2026** |
+| **Focus** | AI Engineering, LLM Applications, Applied ML, Backend & Full-Stack Software |
+| **Education** | MSc Automation Engineering, University of Bologna — completed **October 2026** |
+| **Recent Experience** | AI-engineering thesis internship at **MemorAIz S.r.l.**, Bologna |
+| **Looking for** | Early-career AI/ML and Software Engineering roles across Europe |
 | **Based in** | Bologna, Italy · open to relocation within the EU |
-| **Languages** | English (fluent) · Italian (conversational) · Urdu (native) |
+| **Languages** | Urdu (native) · English (fluent) · Italian (elementary, A1) |
 
 ## Experience
 
-**AI Engineer · Master's Thesis** — MemorAIz S.r.l., Bologna · *Feb 2026 – Present*
+### Master's Thesis Internship — AI Engineering · MemorAIz S.r.l.
 
-- Building **RemindrAI**, an embeddable multi-tenant reminder and communication capability that assistants adopt instead of rebuilding — one conversational agent scheduling over Email, WhatsApp, Telegram, and Discord.
-- Made delivery correct under failure without a queue runtime: atomic database claim, per-channel idempotency, database-owned retries, dead-lettering, and reconciliation of provider status callbacks after a send.
-- Built the control plane and operator console — plans, licences and quotas as data, tenancy enforced at four independent depths, a content-blind audit trail, and GDPR export and erasure — under **985 tests** across three repositories.
-- Deployed EU-pinned on Vercel and published as a one-line Mastra capability, with H-FARM's Student Assistant as the first production tenant.
+*Bologna, Italy · February–June 2026*  
+*Thesis collaboration continued through September 2026.*
 
-*The RemindrAI repositories are proprietary to MemorAIz and stay private. Happy to walk through the architecture.*
+Built **RemindrAI**, an embeddable, multi-tenant reminder and multi-channel communication capability that AI assistants can integrate instead of rebuilding.
 
-**Data Clustering & AI Model Intern** — Fruugle SIA, Jelgava, Latvia (remote) · *Jan 2026 – Apr 2026*
+- Built conversational reminder scheduling and delivery across Email, WhatsApp, Telegram, and Discord, packaged as a reusable Mastra capability.
+- Engineered retry-safe delivery using atomic database claims, per-channel idempotency, database-owned retries and backoff, dead-letter handling, and provider-status reconciliation.
+- Kept identity and ownership outside model-controlled tool arguments, reducing the risk of cross-user reminder redirection through prompt injection.
+- Built the control plane and operator console with tenant isolation, per-organization API keys, plans and quotas, a content-blind audit trail, and audited data export and erasure operations.
+- Added a 92-case LLM evaluation set. The connected three-repository ecosystem has **985 automated tests** across its combined test suites.
+- Deployed in an EU-pinned Vercel configuration, with the H-FARM Student Assistant as the capability's **first tenant**.
 
-- Trained an **XGBoost** matcher that identifies the same grocery item across 6 Italian supermarket chains at **97.5% accuracy** against a 95% target, plus a category classifier reaching **99.5%** over 16 classes with class weighting so rare categories were not ignored.
-- Engineered the pipeline over **80K+ scraped products** — Italian-text cleaning, a quantity parser, hard-negative sampling for ambiguous pairs — and shipped inference that grouped **24K+** unsorted products with guardrails against implausible matches.
+The RemindrAI repositories are proprietary to MemorAIz. I'm happy to discuss the architecture and engineering decisions within appropriate confidentiality boundaries.
 
-**Tech Trainee** — Jubilee Life Insurance, Karachi · *Jan 2024 – Oct 2024*
+### Data Clustering & AI Model Intern · Fruugle SIA
 
-- Built ETL pipelines over **100K+ records** and tuned queries and stored procedures, cutting database response times by **~40%**.
-- Automated SharePoint and CRM workflows (**~60%** less manual effort) and delivered 15+ SSRS reports and Power BI dashboards.
+*Jelgava, Latvia · Remote, part-time · January–April 2026*
 
-## Selected projects
+- Built XGBoost models for grocery-product matching across Italian supermarket listings, achieving **97.5% held-out matching accuracy** against a 95% target, with a **0.995 ROC-AUC**; a separate classifier reached **99.5% held-out accuracy across 16 product categories**.
+- Cleaned and parsed more than **81K loaded product records**, engineering text, brand, quantity, and price features, hard negatives, and per-fold class weights. Model training used the labelled subset rather than the entire loaded dataset.
+- Built inference that grouped **24K+ unlabelled products**, using TF-IDF candidate shortlisting and guardrails against implausible matches.
 
-### LLM & agent systems
+### Tech Trainee · Jubilee Life Insurance Co. Ltd.
+
+*Karachi, Pakistan · January–October 2024*
+
+- Built internal full-stack applications using React, ASP.NET Core, PHP, and MySQL, and developed ETL pipelines processing **100K+ records**.
+- Optimized SQL queries and stored procedures, with reported database response-time reductions of approximately **40%**.
+- Automated SharePoint and CRM workflows, with reported manual-effort reductions of approximately **60%**, and delivered **15+ SSRS reports and Power BI dashboards**.
+- Rotated across software development, databases, networking, and security operations, including IBM QRadar monitoring.
+
+## Selected Projects
+
+### LLM & Agent Systems
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Self-Correcting RAG](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG)** | A guardrail agent scores and drops off-topic chunks before they pollute generation; an evaluator then scores the answer's grounding and triggers a bounded self-correction loop, always keeping the best attempt. Ships as both REST API and CLI, with 31 offline tests. | Python · FastAPI · Groq · sentence-transformers · FAISS · Docker |
-| **[LLM-as-Judge](https://github.com/syed-waleed-ahmed/LLM-as-Judge)** | Scores and compares model outputs on custom criteria, with position-bias mitigation via A/B order swapping and concurrent batch grading over CSV/JSONL. Library, CLI, and Streamlit app on one core. | Python · Groq · Pydantic · Streamlit |
-| **[Campaign Forge](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow)** | Research, copywriter, art-director, and manager agents turn a one-line product brief into a full campaign brief. Batch mode fans briefs across a thread pool with per-item error isolation, backed by 94% test coverage and an adversarial eval corpus. | Python · OpenAI-compatible APIs · Groq · Pydantic · mypy strict |
-| **[Multi-Agent Research Team](https://github.com/syed-waleed-ahmed/Multi-Agent-Research-Team)** | A CrewAI CLI where research, coding, and manager agents turn any topic into a structured Markdown report — deterministic sequential pipeline, typed exceptions, backoff retries. | Python · CrewAI · Groq · Serper |
-| **[Niche Fine-Tuned Model](https://github.com/syed-waleed-ahmed/Niche-Finetuned-Model)** | TinyLlama LoRA-fine-tuned for FastAPI Q&A and served as a real microservice: adapter loading through PEFT, completion-only loss, the tokenizer's native chat template, health probes and structured logs. | PyTorch · PEFT / LoRA · FastAPI · Docker |
-| **[AI Workflow Assistant](https://github.com/syed-waleed-ahmed/AI-Workflow-Assistant)** | A ReAct agent that plans, calls data tools, observes, and iterates until it can write a structured analytical report over a raw CSV. | Python · LangGraph · LangChain · Groq · pandas |
+| [**Self-Correcting RAG**](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG) | Filters irrelevant retrieved chunks and evaluates answer grounding against sources. Uses a bounded self-correction loop that retains the best-scoring attempt. Includes a REST API, CLI, and 31 offline tests. | Python · FastAPI · Groq · sentence-transformers · FAISS · Docker |
+| [**LLM-as-Judge**](https://github.com/syed-waleed-ahmed/LLM-as-Judge) | Evaluates and compares model outputs against configurable criteria. Uses A/B order swapping to mitigate position bias and supports concurrent batch grading over CSV/JSONL. | Python · Groq · Pydantic · Streamlit |
+| [**Campaign Forge**](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) | Four-agent workflow that transforms a short product brief into a structured campaign. Includes validated outputs, retries with backoff, self-repairing JSON, and an adversarial evaluation corpus. Verified coverage: **96.4% statement coverage and 84.7% branch coverage**. | Python · OpenAI-compatible APIs · Groq · Pydantic · pytest · mypy |
+| [**Multi-Agent Research Team**](https://github.com/syed-waleed-ahmed/Multi-Agent-Research-Team) | CrewAI-based research, coding, and manager agents produce structured Markdown reports through a sequential workflow with typed exceptions and retry handling. | Python · CrewAI · Groq · Serper |
+| [**Niche Fine-Tuned Model**](https://github.com/syed-waleed-ahmed/Niche-Finetuned-Model) | Fine-tuned TinyLlama with LoRA for domain-specific Q&A and served it as a FastAPI microservice, including adapter loading, health probes, and structured logs. | PyTorch · Transformers · PEFT / LoRA · FastAPI · Docker |
+| [**AI Workflow Assistant**](https://github.com/syed-waleed-ahmed/AI-Workflow-Assistant) | ReAct-style agent plans and invokes data tools, observes results, and iterates to generate structured analytical reports from raw CSV data. | Python · LangGraph · LangChain · Groq · pandas |
 
-### ML, computer vision & robotics
+### Machine Learning, Computer Vision & Robotics
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[TIAGo Pick-and-Place](https://github.com/syed-waleed-ahmed/tiago-autonomous-pick-and-place)** | A mobile manipulator that maps an unknown space, recovers its pose from a random start, finds two stations by their ArUco markers, and picks and places two cubes end to end — no teleoperation, and no map coordinates in the source. Team of three. | ROS 2 Humble · Nav2 / SLAM · MoveIt 2 · ArUco · Gazebo |
-| **[Adversarial Attacks & Defenses](https://github.com/syed-waleed-ahmed/celeba-adversarial-attacks-defenses)** | ResNet-18 on CelebA under FGSM and PGD, with adversarial training as a defense and robustness measured across increasing perturbation strength. Group project. | PyTorch · torchvision · scikit-learn |
-| **[Visual Inspection of Connecting Rods](https://github.com/syed-waleed-ahmed/Visual-Inspection-of-Motorcycle-Connecting-Rods)** | Detects each motorcycle connecting rod in a grayscale image, classifies it by hole count, and measures position, orientation, length, width, and hole diameters — robust to distractor objects and scattered iron powder. | Python · OpenCV · NumPy |
+| [**TIAGo Autonomous Pick-and-Place**](https://github.com/syed-waleed-ahmed/tiago-autonomous-pick-and-place) | Master's team project. A mobile manipulator maps an unknown environment, localizes from an unfamiliar starting pose, discovers workstations using ArUco markers, and completes an ordered pick-and-place task without teleoperation. | ROS 2 Humble · Nav2 · SLAM · AMCL · ArUco · Gazebo · Python |
+| [**Adversarial Attacks & Defenses**](https://github.com/syed-waleed-ahmed/celeba-adversarial-attacks-defenses) | Evaluated ResNet-18 on CelebA under FGSM and PGD attacks, investigating adversarial training and measuring robustness across perturbation strengths. Group project. | PyTorch · torchvision · scikit-learn |
+| [**Visual Inspection of Connecting Rods**](https://github.com/syed-waleed-ahmed/Visual-Inspection-of-Motorcycle-Connecting-Rods) | Computer-vision pipeline that classifies motorcycle connecting rods by hole count and measures their geometry, with image-processing techniques for distractors and scattered iron powder. | Python · OpenCV · NumPy · SciPy |
 
-Also: **[Portfolio](https://github.com/syed-waleed-ahmed/Portfolio)** — my site, built for performance, accessibility and security (React 19 + Vite, Express API, hash-pinned CSP, CI with lint, tests, audit and secret scanning). More context on every project at [syedwaleedahmed.me](https://syedwaleedahmed.me/#projects).
+### Portfolio
+
+[**Portfolio Repository**](https://github.com/syed-waleed-ahmed/Portfolio) — Personal website built with React 19, Vite, and Express, with an emphasis on performance, accessibility, and security. Includes a hash-pinned Content Security Policy and CI checks for linting, tests, dependency auditing, and secret scanning.
+
+Explore more project details on [syedwaleedahmed.me](https://syedwaleedahmed.me/#projects).
 
 ## Education
 
-**MSc Automation Engineering** — University of Bologna · *Sep 2024 – Oct 2026*<br>
+**MSc Automation Engineering** — Alma Mater Studiorum – Università di Bologna, Italy  
+*October 2024 – October 2026*
+
 Thesis: *RemindrAI: An Embeddable, Multi-Tenant Reminder and Multi-Channel Communication Capability for Conversational Applications*
 
-**Erasmus+ Exchange** — University of Twente, Netherlands · *Sep 2025 – Jan 2026*<br>
-Machine Learning I & II, Deep Learning, Modelling, Dynamics & Kinematics
+**Erasmus+ Exchange** — University of Twente, Netherlands  
+*September 2025 – January 2026*
 
-**BE Electrical Engineering** — NED University of Engineering and Technology, Karachi · *Oct 2019 – Aug 2023*
+Relevant coursework: Machine Learning I & II, Deep Learning, Modelling, Dynamics & Kinematics.
 
-## Tech I reach for
+**BE Electrical Engineering** — NED University of Engineering and Technology, Karachi, Pakistan  
+*October 2019 – August 2023*
 
-**Languages** `Python` `TypeScript` `SQL` `C++`
+## Technical Skills
 
-**LLM & agents** `LangChain` `LangGraph` `CrewAI` `Mastra` `Vercel AI SDK` `OpenAI` `Groq` `Hugging Face` `PEFT / LoRA`
+**Languages**  
+`Python` `TypeScript` `JavaScript` `SQL` `C++ (academic)`
 
-**ML & CV** `PyTorch` `scikit-learn` `XGBoost` `OpenCV` `pandas` `NumPy`
+**LLM & Agent Engineering**  
+`RAG` `Multi-Agent Systems` `Tool Calling` `LangChain` `LangGraph` `CrewAI` `Mastra` `Vercel AI SDK` `OpenAI SDK` `Groq` `Hugging Face` `PEFT / LoRA`
 
-**Robotics** `ROS 2` `Nav2` `MoveIt 2` `Gazebo`
+**Machine Learning & Computer Vision**  
+`PyTorch` `scikit-learn` `XGBoost` `OpenCV` `pandas` `NumPy` `SciPy` `Feature Engineering` `Model Evaluation`
 
-**Backend & web** `FastAPI` `Next.js` `React` `Node.js` `REST` `Server Components`
+**Backend & Web**  
+`FastAPI` `Next.js` `React` `Node.js` `Express` `REST APIs` `Webhooks` `Multi-Tenancy`
 
-**Data** `PostgreSQL` `pgvector` `Turso / libSQL` `FAISS` `MySQL`
+**Data & Storage**  
+`PostgreSQL` `pgvector` `Turso / libSQL` `FAISS` `MySQL` `SQL Server` `ETL`
 
-**Tooling** `Docker` `Vercel` `GitHub Actions` `pytest` `Vitest` `ruff` `mypy`
+**Testing & Tooling**  
+`Docker` `Vercel` `Git` `GitHub Actions` `pytest` `Vitest` `ruff` `mypy` `CI/CD`
 
 ---
 
-<p align="center"><sub>Let's talk if you're hiring for AI/ML roles, or just want to compare notes on agentic systems.</sub></p>
+<p align="center">
+  <sub>Building reliable AI systems, one test and one failure mode at a time. Open to early-career AI/ML and software engineering opportunities.</sub>
+</p>
