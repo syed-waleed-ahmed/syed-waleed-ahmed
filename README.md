@@ -112,16 +112,16 @@ Relevant coursework: Machine Learning I & II, Deep Learning, Modelling, Dynamics
 `RAG` `Multi-Agent Systems` `Tool Calling` `LangChain` `LangGraph` `CrewAI` `Mastra` `Vercel AI SDK` `OpenAI SDK` `Groq` `Hugging Face` `PEFT / LoRA`
 
 **Machine Learning & Computer Vision**  
-`PyTorch` `scikit-learn` `XGBoost` `OpenCV` `pandas` `NumPy` `SciPy` `Feature Engineering` `Model Evaluation`
+`PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `OpenCV` `pandas` `NumPy` `SciPy` `Feature Engineering` `Model Evaluation`
 
 **Backend & Web**  
 `FastAPI` `Next.js` `React` `Node.js` `Express` `REST APIs` `Webhooks` `Multi-Tenancy`
 
 **Data & Storage**  
-`PostgreSQL` `pgvector` `Turso / libSQL` `FAISS` `MySQL` `SQL Server` `ETL`
+`PostgreSQL` `pgvector` `Turso / libSQL` `FAISS` `MySQL` `SQL Server` `MongoDB` `Kafka` `ETL`
 
 **Testing & Tooling**  
-`Docker` `Vercel` `Git` `GitHub Actions` `pytest` `Vitest` `ruff` `mypy` `CI/CD`
+`Docker` `Kubernetes` `Terraform` `Vercel` `Git` `GitHub Actions` `pytest` `Vitest` `ruff` `mypy` `CI/CD`
 
 ---
 
