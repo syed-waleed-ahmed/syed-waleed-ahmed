@@ -70,9 +70,9 @@ The RemindrAI repositories are proprietary to MemorAIz. I'm happy to discuss the
 | [**Self-Correcting Multi-Agent RAG**](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG) | Hybrid BM25 and vector retrieval; a guardrail agent drops off-topic chunks and an evaluator grades each answer against its sources, correcting weak ones in a bounded loop that keeps the best attempt. Adds a tool-using agent with read-only SQL and private uploads. Hybrid search lifted recall@5 from 0.967 to 0.992 over dense retrieval on a 60-question golden set; **341 tests**. [Live demo](https://scrag-web.onrender.com/) | Python · FastAPI · PostgreSQL / pgvector · Next.js · Groq · Docker |
 | [**LLM-as-Judge**](https://github.com/syed-waleed-ahmed/LLM-as-Judge) | Evaluation platform that grades LLM outputs with an LLM judge: pairwise, pointwise, reference-based, ranking, RAG faithfulness and agent trajectories. Judges each pair in both orders to offset position bias, and flags suspected prompt injection, verbosity bias and self-preference. Published on [PyPI](https://pypi.org/project/llm-as-judge-platform/) as one engine behind a library, CLI, REST API and dashboard; **98% test coverage**. [Live demo](https://llm-as-judge.streamlit.app/) | Python · Pydantic · FastAPI · Streamlit · Groq · Ollama |
 | [**Campaign Forge**](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) | Multi-agent marketing platform that turns a product brief into a reviewed, evidence-backed campaign: 28 agents and 14 workflow templates, checkpointed runs that pause on a quota and resume, research citations checked against retrieved evidence, and an Evaluation Lab with 14 prompt-injection cases. **97% branch coverage**. [Live demo](https://campaign-forge.streamlit.app/) | Python · Pydantic · FastAPI · Streamlit · Groq · SQLite |
+| [**FastAPI Niche Assistant**](https://github.com/syed-waleed-ahmed/Niche-Finetuned-Model) | Small language model fine-tuned with LoRA on FastAPI questions (TinyLlama 1.1B), merged and quantized to a 0.7 GB GGUF and served by llama.cpp on CPU behind an OpenAI-compatible streaming API, with opt-in retrieval over the FastAPI docs. A Cloudflare Worker handles keys and rate limits in front of Google Cloud Run, on free tiers. An eval gate decides each release: the fine-tune scored **0.546 against the base model's 0.402** on a 108-item held-out set. [Live demo](https://fastapi-assistant-edge.fastapi-assistant-edge.workers.dev) | Python · PEFT / LoRA · llama.cpp · FastAPI · Cloudflare Workers · Google Cloud Run |
+| [**AI Workflow Assistant**](https://github.com/syed-waleed-ahmed/AI-Workflow-Assistant) | AI data analyst for spreadsheets: upload a CSV or Excel file, ask a question in plain language, and get a report with metrics, charts, findings and recommendations. A LangGraph agent plans the analysis and calls deterministic pandas tools; every figure in the report is checked against the computation behind it, and nothing the model writes is executed as code. Private accounts and datasets, follow-up questions, and exports to Markdown, PDF, Excel and CSV. [Live demo](https://ai-workflow-assistant-app.vercel.app) | Python · FastAPI · LangGraph · pandas · PostgreSQL · Next.js |
 | [**Multi-Agent Research Team**](https://github.com/syed-waleed-ahmed/Multi-Agent-Research-Team) | CrewAI-based research, coding, and manager agents produce structured Markdown reports through a sequential workflow with typed exceptions and retry handling. | Python · CrewAI · Groq · Serper |
-| [**Niche Fine-Tuned Model**](https://github.com/syed-waleed-ahmed/Niche-Finetuned-Model) | Fine-tuned TinyLlama with LoRA for domain-specific Q&A and served it as a FastAPI microservice, including adapter loading, health probes, and structured logs. | PyTorch · Transformers · PEFT / LoRA · FastAPI · Docker |
-| [**AI Workflow Assistant**](https://github.com/syed-waleed-ahmed/AI-Workflow-Assistant) | ReAct-style agent plans and invokes data tools, observes results, and iterates to generate structured analytical reports from raw CSV data. | Python · LangGraph · LangChain · Groq · pandas |
 
 ### Machine Learning, Computer Vision & Robotics
 
@@ -109,7 +109,7 @@ Relevant coursework: Machine Learning I & II, Deep Learning, Modelling, Dynamics
 `Python` `TypeScript` `JavaScript` `SQL` `C++ (academic)`
 
 **LLM & Agent Engineering**  
-`RAG` `Multi-Agent Systems` `Tool Calling` `LangChain` `LangGraph` `CrewAI` `Mastra` `Vercel AI SDK` `OpenAI SDK` `Groq` `Hugging Face` `PEFT / LoRA`
+`RAG` `Multi-Agent Systems` `Tool Calling` `LangChain` `LangGraph` `CrewAI` `Mastra` `Vercel AI SDK` `OpenAI SDK` `Groq` `Hugging Face` `PEFT / LoRA` `llama.cpp / GGUF`
 
 **Machine Learning & Computer Vision**  
 `PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `OpenCV` `pandas` `NumPy` `SciPy` `Feature Engineering` `Model Evaluation`
@@ -121,7 +121,7 @@ Relevant coursework: Machine Learning I & II, Deep Learning, Modelling, Dynamics
 `PostgreSQL` `pgvector` `Turso / libSQL` `FAISS` `MySQL` `SQL Server` `MongoDB` `Kafka` `ETL`
 
 **Testing & Tooling**  
-`Docker` `Kubernetes` `Terraform` `Vercel` `Git` `GitHub Actions` `pytest` `Vitest` `ruff` `mypy` `CI/CD`
+`Docker` `Kubernetes` `Terraform` `Vercel` `Google Cloud Run` `Cloudflare Workers` `Git` `GitHub Actions` `pytest` `Vitest` `ruff` `mypy` `CI/CD`
 
 ---
 
