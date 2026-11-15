@@ -68,12 +68,6 @@ I build AI systems around LLMs and machine-learning models, with a focus on the 
 | [**Visual Inspection of Connecting Rods**](https://github.com/syed-waleed-ahmed/Visual-Inspection-of-Motorcycle-Connecting-Rods) | Computer-vision pipeline that classifies motorcycle connecting rods by hole count and measures their geometry, with image-processing techniques for distractors and scattered iron powder. | Python · OpenCV · NumPy · SciPy |
 | [**TIAGo Autonomous Pick-and-Place**](https://github.com/syed-waleed-ahmed/tiago-autonomous-pick-and-place) | Master's team project. A mobile manipulator maps an unknown environment, localizes from an unfamiliar starting pose, discovers workstations using ArUco markers, and completes an ordered pick-and-place task without teleoperation. | ROS 2 Humble · Nav2 · SLAM · AMCL · ArUco · Gazebo · Python |
 
-### More
-
-- [**Mastra Course**](https://github.com/syed-waleed-ahmed/Mastra-Course): TypeScript agents with custom tools, multi-step workflows, evaluation scorers, libSQL-backed memory and MCP integration.
-- [**GTM Intelligence Platform**](https://github.com/syed-waleed-ahmed/GTM-Intelligence-Platform): collects news signals from Google News RSS, classifies them into go-to-market themes and writes a recommendation per theme, with a Slack digest. Python.
-- [**LinkedIn Growth Report**](https://github.com/syed-waleed-ahmed/Linkedin-Report): scores a post's performance and its audience against an Ideal Customer Profile, with an HTML report and a Streamlit dashboard. Python.
-
 More project details on [syedwaleedahmed.me](https://syedwaleedahmed.me/#projects).
 
 ## Experience
