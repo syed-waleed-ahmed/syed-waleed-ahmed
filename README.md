@@ -74,7 +74,7 @@ More project details on [syedwaleedahmed.me](https://syedwaleedahmed.me/#project
 
 ### Master's Thesis Internship — AI Engineering · MemorAIz S.r.l.
 
-*Bologna, Italy · February–June 2026 · thesis collaboration continued through September 2026*
+*Bologna, Italy · February–September 2026*
 
 Built **RemindrAI**, an embeddable, multi-tenant reminder and multi-channel communication capability that AI assistants can integrate instead of rebuilding.
 
