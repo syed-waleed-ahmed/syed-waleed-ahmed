@@ -48,10 +48,10 @@ I build AI systems around LLMs and machine-learning models, with a focus on the 
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [**Self-Correcting Multi-Agent RAG**](https://github.com/syed-waleed-ahmed/Self-Correcting-RAG) | Hybrid BM25 and vector retrieval; a guardrail agent drops off-topic chunks and an evaluator grades each answer against its sources, correcting weak ones in a bounded loop that keeps the best attempt. Adds a tool-using agent with read-only SQL and private uploads. Hybrid search lifted recall@5 from 0.967 to 0.992 over dense retrieval on a 60-question golden set; **347 tests**. [Live demo](https://scrag-web.onrender.com/) | Python · FastAPI · PostgreSQL / pgvector · Next.js · Groq · Docker |
-| [**Campaign Forge**](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) | Multi-agent platform that turns a product brief into a reviewed, evidence-backed campaign: 28 agents and 14 workflow templates, checkpointed runs that pause on a quota and resume, research citations checked against retrieved evidence, and an Evaluation Lab with 14 prompt-injection cases. **97% branch coverage**. [Live demo](https://campaign-forge.streamlit.app/) | Python · Pydantic · FastAPI · Streamlit · Groq · SQLite |
+| [**Campaign Forge**](https://github.com/syed-waleed-ahmed/Multi-Agent-Workflow) | Multi-agent platform that turns a product brief into a reviewed, evidence-backed campaign: 28 agents and 14 workflow templates, checkpointed runs that pause on a quota and resume, research citations checked against retrieved evidence, and an Evaluation Lab with 14 prompt-injection cases. **794 tests, 97% branch coverage**. [Live demo](https://campaign-forge.streamlit.app/) | Python · Pydantic · FastAPI · Streamlit · Groq · SQLite |
 | [**AI Workflow Assistant**](https://github.com/syed-waleed-ahmed/AI-Workflow-Assistant) | AI data analyst for spreadsheets: a LangGraph agent plans the analysis and calls deterministic pandas tools, and every figure in the report is checked against the computation behind it; nothing the model writes is executed as code. Charts, follow-up questions and exports; **508 tests** across backend and frontend. [Live demo](https://ai-workflow-assistant-app.vercel.app) | Python · FastAPI · LangGraph · pandas · PostgreSQL · Next.js |
+| [**Multi-Agent Research Team**](https://github.com/syed-waleed-ahmed/Multi-Agent-Research-Team) | Research, coding and manager agents search the web, write runnable code examples and deliver a cited Markdown report, with every agent step, search, retry and provider fallback streamed live to the browser. Each link in the report is checked against the URLs the search actually retrieved. Persisted jobs with restart recovery, per-stage provider fallbacks and per-visitor quotas keep it running on free tiers; web app and CLI share one engine. **260+ tests** across pytest, Vitest and Playwright. [Live demo](https://multi-agent-research-team-aasz.onrender.com) | Python · CrewAI · LiteLLM · FastAPI · React · Groq · Serper · PostgreSQL |
 | [**MemorAIz Onboarding Assistant**](https://github.com/syed-waleed-ahmed/memoraiz-onboarding) | An AI agent interviews the user and fills a live company-profile canvas in real time. Streams replies token by token, races OpenAI and Gemini in parallel so the fastest answer wins, and retrieves over PostgreSQL with pgvector, in English or Italian. [Live demo](https://memoraiz-onboarding.vercel.app) | TypeScript · Next.js · Mastra · PostgreSQL / pgvector · OpenAI · Gemini |
-| [**Multi-Agent Research Team**](https://github.com/syed-waleed-ahmed/Multi-Agent-Research-Team) | CrewAI-based research, coding and manager agents produce structured Markdown reports through a sequential workflow with typed exceptions and retry handling. | Python · CrewAI · Groq · Serper |
 
 ### Evaluation & Fine-Tuning
 
@@ -114,7 +114,7 @@ Coursework: Machine Learning I & II, Deep Learning, Modelling, Dynamics & Kinema
 ## Technical Skills
 
 **LLM & Agent Engineering**  
-`RAG` `Multi-Agent Systems` `Tool Calling` `LangChain` `LangGraph` `CrewAI` `Mastra` `Vercel AI SDK` `OpenAI SDK` `Groq` `Hugging Face` `PEFT / LoRA` `llama.cpp / GGUF` `LLM Evaluation`
+`RAG` `Multi-Agent Systems` `Tool Calling` `LangChain` `LangGraph` `CrewAI` `Mastra` `Vercel AI SDK` `OpenAI SDK` `LiteLLM` `Groq` `Hugging Face` `PEFT / LoRA` `llama.cpp / GGUF` `LLM Evaluation`
 
 **Machine Learning & Computer Vision**  
 `PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `OpenCV` `pandas` `NumPy` `SciPy` `Feature Engineering` `Model Evaluation`
@@ -126,10 +126,10 @@ Coursework: Machine Learning I & II, Deep Learning, Modelling, Dynamics & Kinema
 `PostgreSQL` `pgvector` `Turso / libSQL` `FAISS` `MySQL` `SQL Server` `MongoDB` `Kafka` `ETL`
 
 **Serving, Backend & MLOps**  
-`FastAPI` `Next.js` `React` `Node.js` `REST APIs` `Docker` `Kubernetes` `Terraform` `Vercel` `Google Cloud Run` `Cloudflare Workers` `GitHub Actions` `CI/CD`
+`FastAPI` `Next.js` `React` `Node.js` `Streamlit` `REST APIs` `Server-Sent Events` `Docker` `Kubernetes` `Terraform` `Vercel` `Google Cloud Run` `Cloudflare Workers` `GitHub Actions` `CI/CD`
 
 **Testing & Quality**  
-`pytest` `Vitest` `ruff` `mypy` `Git`
+`pytest` `Vitest` `Playwright` `ruff` `mypy` `Git`
 
 ---
 
